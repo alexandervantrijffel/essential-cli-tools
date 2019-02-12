@@ -1,2 +1,1 @@
-# essential-cli-tools
-Curated list of useful cli tools for *nix
+- [bashub.com](https://bashub.com) synchronize bash and zsh history
