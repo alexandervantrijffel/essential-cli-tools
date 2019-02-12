@@ -1,1 +1,4 @@
-- [bashub.com](https://bashub.com) synchronize bash and zsh history
+- [bashub](https://bashub.com) synchronize bash and zsh history
+- [frp](https://github.com/fatedier/frp) reverse proxy to expose local service to the internet
+- [hyperfine](https://github.com/sharkdp/hyperfine) command line benchmarking tool
+- [feh](https://feh.finalrewind.org) command line image viewer with support for slideshows, i3 background images, image meta data lists
